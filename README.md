@@ -67,7 +67,7 @@ Narahubung: [Randy Vianda Putra](https://www.facebook.com/aweutist)
 **eFishery** \
 Situs: https://www.efishery.com/ \
 Bidang:  Menciptakan inovasi dalam bidang akuakultur \
-Tech Stack: NodeJS & MonggoDB \
+Tech Stack: NodeJS & MongoDB \
 Alamat: Jl. Bukit Pakar Timur IV Kav. B1, Ciburial, Cimenyan, Ciburial, Kecamatan Coblong, Bandung, Jawa Barat 40254 \
 Narahubung: [Anshorimuslim Syuhada](https://twitter.com/ans4175)
 
