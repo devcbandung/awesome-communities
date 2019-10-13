@@ -20,14 +20,14 @@ Silakan tambahkan komunitas dan startup tech yang kalian tahu. Ini agar ekosiste
 Topik: General (Web Dev, Backend Dev, Data Science, dan lainnya!) \
 Meetup: Bulanan, info ada di grup Facebook di bawah \
 Grup Facebook: https://www.facebook.com/groups/DevCBandung \
-Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) dan [Michaela Sandra](https://www.facebook.com/michaela.sandra.18) <br><br><br><br>
+Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) dan [Michaela Sandra](https://www.facebook.com/michaela.sandra.18) 
 
 <img src="https://i.imgur.com/fk9IGi8.jpg" height="168px" width="168px" align="left" alt="" />
 
 **Kontilas - Koding Napak Tilas**\
 Topik: Web Dev, Backend Dev, Laravel/Lumen, Vue, React, Flutter, Android, DevOps, Gitlab CI/CD \
 Meetup: Sebulan 3 Kali\
-Grup: masih kecil, kontak aja narahubung buat di invite, soon public
+Grup: masih kecil, kontak aja narahubung buat di invite, soon public \
 Narahubung: [Yahya F. Al Fatih](https://www.facebook.com/yahya.kimochi), [Galih Pratama](https://www.facebook.com/pratamagalih) dan [Yohanes Isa](https://www.facebook.com/yohanesisa)<br>
 
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
