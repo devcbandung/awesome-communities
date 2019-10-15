@@ -43,12 +43,12 @@ Narahubung: [Yahya F. Al Fatih](https://www.facebook.com/yahya.kimochi), [Galih 
 <img src="https://www.cncf.io/wp-content/uploads/2017/12/icon_cncf_twitter.png" height="128px" width="128px" align="left" alt="" />
 
 **Kubernetes/Cloud Native Bandung**\
-Topik: Semua hal terkait Cloud Native (Microservice, container, CI/CD, dan banyak lainnya!) \
+Topik: Semua hal terkait [Cloud Native](https://www.cncf.io/) (Microservice, container, CI/CD, dan [banyak lainnya!](https://landscape.cncf.io/)) \
 Meetup: Bulanan (1 bulan 1x) \
 Grup Meetup: https://meetup.com/Kubernetes-and-Cloud-Native-Bandung/ \
 Grup Telegram: https://t.me/kubernetesindonesia dan https://t.me/microserviceid \
 GitHub Repository: https://github.com/cloudnative-id/kubernetes-cloud-native-bandung \
-Narahubung: Telegram Iqbal Syamil (@iqbalsyamil), Giri Kuncoro (@girikuncoro), Zufar Dhiyaulhaq (@zufardhiyaulhaq), Joshua Bezaleel Abednego (@joshuabezaleel) 
+Narahubung: Telegram Iqbal Syamil [(@iqbalsyamil)](https://t.me/iqbalsyamil), Giri Kuncoro [(@girikuncoro)](https://t.me/girikuncoro), Zufar Dhiyaulhaq [(@zufardhiyaulhaq)](https://t.me/zufardhiyaulhaq), Joshua Bezaleel Abednego [(@joshuabezaleel)](https://t.me/joshuabezaleel) 
 
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
 
