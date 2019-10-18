@@ -49,6 +49,13 @@ Grup Meetup: https://meetup.com/Kubernetes-and-Cloud-Native-Bandung/ \
 Grup Telegram: https://t.me/kubernetesindonesia dan https://t.me/microserviceid \
 GitHub Repository: https://github.com/cloudnative-id/kubernetes-cloud-native-bandung \
 Narahubung: Telegram Iqbal Syamil [(@iqbalsyamil)](https://t.me/iqbalsyamil), Giri Kuncoro [(@girikuncoro)](https://t.me/girikuncoro), Zufar Dhiyaulhaq [(@zufardhiyaulhaq)](https://t.me/zufardhiyaulhaq), Joshua Bezaleel Abednego [(@joshuabezaleel)](https://t.me/joshuabezaleel) 
+<img src="https://raw.githubusercontent.com/AndroidDeveloperBandung/meetup-cantik/master/adb_logo.jpeg" height="128px" width="128px" align="left" alt="" />
+
+**Android Developer Bandung**\
+Topik: Android and Mobile Apps Development \
+Meetup: Bulanan \
+Grup Telegram: http://t.me/androidDevBdg \
+Narahubung: [Deni Rohimat](https://www.facebook.com/derohimat) dan [Esa Firman](https://www.facebook.com/esafirm)
 
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
 
